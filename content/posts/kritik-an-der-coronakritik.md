@@ -35,6 +35,7 @@ Hier nochmals die Daten, aber für jeden Tag wurde der Durchschnitt der letzten 
 ![Freie belegbare Betten mit 7-Tage-Durchschnitt aus Daten des Intensivregisters vom 24.11.](/img/posts/kritik-an-der-coronakritik/freie-belegbare-betten-7-tage-schnitt.png)
 
 Wesentliche "Meilensteine": 
+* Wir betrachten den Zeitraum ab Mitte August. Grund dafür ist, dass im August der Fragebogen geändert wurde und die Kennzahl "Notfallreserve" dort Einzug fand. Einige Krankenhäuser haben deswegen einen Tei der gemeldeten Betten in die Notfallreserve verschoben, weswegen teils es zu einer technischen Reduktion der Menge der belegbaren Betten kam.
 * 11.09.: weniger als 9.000 freie Betten. Dies war bis zum 21.10. einigermaßen stabil zwischen 8.900 und 9.000 Betten.
 * 22.10. bis 28.10.: erstmals weniger als 8.000 Betten. Insbesondere sind in dieser Woche knapp 900 belegbare Betten verloren gegangen.
 * 12.11.: erstmals weniger als 7.000 belegbare Betten.

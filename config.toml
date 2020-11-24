@@ -6,8 +6,6 @@ Copyright = "[Matti Mäkitalo](mailto:matti@fanalin.de)"
 
 pygmentsCodeFences = true
 
-disqusShortname = "" #Disqus shortname
-
 [author]
     name = "Matti Mäkitalo"           #Author name
     github = "fanalin"         #Github username
@@ -15,6 +13,7 @@ disqusShortname = "" #Disqus shortname
 
 [params]
     tagline = "Mein persönlicher Blog"
-    customCSS = []  #Optional Customised CSS
+    customCSS = ["/css/main.css" ]  #Optional Customised CSS
     disableDarkModeCSS = false # disables css style for users using dark-mode
     other = ""
+    google_fonts = false
