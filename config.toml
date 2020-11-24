@@ -1,3 +1,20 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://www.fanalin.de/"
+languageCode = "de-DE"
+title = "Matti Mäkitalo"
+theme = "hugo-kiera"
+Copyright = "[Matti Mäkitalo](mailto:matti@fanalin.de)"
+
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+
+[author]
+    name = "Matti Mäkitalo"           #Author name
+    github = "fanalin"         #Github username
+    twitter = "fanalin83"        #Twitter username
+
+[params]
+    tagline = "Mein persönlicher Blog"
+    customCSS = []  #Optional Customised CSS
+    disableDarkModeCSS = false # disables css style for users using dark-mode
+    other = ""
